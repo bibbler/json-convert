@@ -1,0 +1,5 @@
+{
+  "name": "JSON to Table Converter",
+  "description": "A clean and modern tool to paste JSON data and instantly visualize it in a sortable, easy-to-read table. Ideal for analyzing structured data like cryptocurrency market information.",
+  "requestFramePermissions": []
+}
